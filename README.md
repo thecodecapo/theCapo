@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theKyrios
-- watch out my portfolio -> https://wwww.guna.dev
+- watch out my portfolio -> https://www.guna.dev
 
 <!---
 theKyrios/theKyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
