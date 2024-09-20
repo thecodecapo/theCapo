@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theKyrios
+- 👋 Hi, I’m Code Capo
 - watch out my portfolio -> https://www.guna.dev
 
 <!---
